@@ -1,0 +1,24 @@
+.carousel-item{
+    height: 650px;
+    width: 2000px;
+}
+body{
+    background-color: rgb(52, 52, 52);
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-style: initial;
+    text-align: center;
+    font-size: xx-large;
+}
+#imagen{
+    background: yellow url('icono-de-línea-negra-diseño-gráfico-pictograma-para-la-página-web-aplicación-móvil-promo-trazo-editable-213905437.webp') center bottom;
+}
+.texto{
+    color: white;
+    text-align: center;
+    font-size: medium;
+}
+.texto2{
+    color:white;
+}
